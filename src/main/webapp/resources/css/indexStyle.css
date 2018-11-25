@@ -1,0 +1,23 @@
+.btnMargin {
+    float: right;
+    margin-right: 10px;
+}
+
+.btnMarginSignIn {
+    float: right;
+    margin-right: 50px;
+}
+
+body {
+    background: url(/resources/images/mainScreen.jpg) no-repeat left top fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.form-navi {
+    margin-top: 10px;
+}
+
+span {
+    color: #3CB4B5;
+}
